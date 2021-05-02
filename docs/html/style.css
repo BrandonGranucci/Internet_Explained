@@ -1,0 +1,15 @@
+body {
+    overflow-y: scroll;
+}
+
+.float-right {
+    float: right;
+}
+.text-center {
+    text-align: center;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
